@@ -1,0 +1,4133 @@
+﻿body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../新母版_2_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:25px;
+    top:0px;
+    width:960px;
+    height:76px;
+}
+
+#u0_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:966px;
+    height:82px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:30px;
+    width:956px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2 {
+    position:absolute;
+    left:40px;
+    top:4px;
+    width:68px;
+    height:72px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u3 {
+    position:absolute;
+    left:114px;
+    top:13px;
+    width:196px;
+    height:26px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4 {
+    position:absolute;
+    left:116px;
+    top:39px;
+    width:196px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u5_normal {
+    background-image: url('../新母版_2_files/u5_normal.png');
+}
+
+.u5_container {
+    position:absolute;
+    left:25px;
+    top:97px;
+    width:178px;
+    height:175px;
+}
+
+#u5_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:184px;
+    height:181px;
+}
+
+.u6 {
+    position:absolute;
+    left:10px;
+    top:10px;
+    width:158px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u7_normal {
+    background-image: url('../新母版_2_files/u7_normal.png');
+}
+
+.u7_container {
+    position:absolute;
+    left:25px;
+    top:98px;
+    width:178px;
+    height:39px;
+}
+
+#u7_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:184px;
+    height:45px;
+}
+
+.u8 {
+    position:absolute;
+    left:10px;
+    top:10px;
+    width:158px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u9 {
+    position:absolute;
+    left:27px;
+    top:146px;
+    width:179px;
+    height:125px
+}
+
+.u10_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u10_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:174px;
+    height:40px;
+}
+
+#u10_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:180px;
+    height:46px;
+}
+
+.u11 {
+    position:absolute;
+    left:10px;
+    top:12px;
+    width:163px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u12_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u12_container {
+    position:absolute;
+    left:0px;
+    top:40px;
+    width:174px;
+    height:40px;
+}
+
+#u12_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:180px;
+    height:46px;
+}
+
+.u13 {
+    position:absolute;
+    left:10px;
+    top:12px;
+    width:163px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u14_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u14_container {
+    position:absolute;
+    left:0px;
+    top:80px;
+    width:174px;
+    height:40px;
+}
+
+#u14_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:180px;
+    height:46px;
+}
+
+.u15 {
+    position:absolute;
+    left:10px;
+    top:12px;
+    width:163px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u16_normal {
+    background-image: url('../新母版_2_files/u16_normal.png');
+}
+
+.u16_container {
+    position:absolute;
+    left:25px;
+    top:293px;
+    width:178px;
+    height:222px;
+}
+
+#u16_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:184px;
+    height:228px;
+}
+
+.u17 {
+    position:absolute;
+    left:10px;
+    top:10px;
+    width:158px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u18_normal {
+    background-image: url('../新母版_2_files/u7_normal.png');
+}
+
+.u18_container {
+    position:absolute;
+    left:25px;
+    top:294px;
+    width:178px;
+    height:39px;
+}
+
+#u18_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:184px;
+    height:45px;
+}
+
+.u19 {
+    position:absolute;
+    left:10px;
+    top:10px;
+    width:158px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u20 {
+    position:absolute;
+    left:27px;
+    top:342px;
+    width:179px;
+    height:165px
+}
+
+.u21_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u21_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:174px;
+    height:40px;
+}
+
+#u21_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:180px;
+    height:46px;
+}
+
+.u22 {
+    position:absolute;
+    left:10px;
+    top:12px;
+    width:163px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u23_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u23_container {
+    position:absolute;
+    left:0px;
+    top:40px;
+    width:174px;
+    height:40px;
+}
+
+#u23_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:180px;
+    height:46px;
+}
+
+.u24 {
+    position:absolute;
+    left:10px;
+    top:12px;
+    width:163px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u25_normal {
+    background-image: url('../新母版_2_files/u25_normal.png');
+}
+
+.u25_container {
+    position:absolute;
+    left:0px;
+    top:80px;
+    width:174px;
+    height:40px;
+}
+
+#u25_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:180px;
+    height:46px;
+}
+
+.u26 {
+    position:absolute;
+    left:10px;
+    top:12px;
+    width:163px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u27_normal {
+    background-image: url('../新母版_2_files/u25_normal.png');
+}
+
+.u27_container {
+    position:absolute;
+    left:0px;
+    top:120px;
+    width:174px;
+    height:40px;
+}
+
+#u27_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:180px;
+    height:46px;
+}
+
+.u28 {
+    position:absolute;
+    left:10px;
+    top:12px;
+    width:163px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u29_normal {
+    background-image: url('../新母版_2_files/u29_normal.png');
+}
+
+.u29_container {
+    position:absolute;
+    left:25px;
+    top:535px;
+    width:178px;
+    height:105px;
+}
+
+#u29_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:184px;
+    height:111px;
+}
+
+.u30 {
+    position:absolute;
+    left:10px;
+    top:10px;
+    width:158px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u31_normal {
+    background-image: url('../新母版_2_files/u7_normal.png');
+}
+
+.u31_container {
+    position:absolute;
+    left:25px;
+    top:536px;
+    width:178px;
+    height:39px;
+}
+
+#u31_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:184px;
+    height:45px;
+}
+
+.u32 {
+    position:absolute;
+    left:10px;
+    top:10px;
+    width:158px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u33 {
+    position:absolute;
+    left:27px;
+    top:584px;
+    width:179px;
+    height:45px
+}
+
+.u34_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u34_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:174px;
+    height:40px;
+}
+
+#u34_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:180px;
+    height:46px;
+}
+
+.u35 {
+    position:absolute;
+    left:10px;
+    top:12px;
+    width:163px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u36_normal {
+    background-image: url('../新母版_2_files/u36_normal.png');
+}
+
+.u36_container {
+    position:absolute;
+    left:25px;
+    top:650px;
+    width:178px;
+    height:201px;
+}
+
+#u36_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:184px;
+    height:207px;
+}
+
+.u37 {
+    position:absolute;
+    left:10px;
+    top:10px;
+    width:158px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u38_normal {
+    background-image: url('../新母版_2_files/u7_normal.png');
+}
+
+.u38_container {
+    position:absolute;
+    left:25px;
+    top:651px;
+    width:178px;
+    height:39px;
+}
+
+#u38_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:184px;
+    height:45px;
+}
+
+.u39 {
+    position:absolute;
+    left:10px;
+    top:10px;
+    width:158px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u40 {
+    position:absolute;
+    left:27px;
+    top:699px;
+    width:179px;
+    height:85px
+}
+
+.u41_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u41_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:174px;
+    height:40px;
+}
+
+#u41_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:180px;
+    height:46px;
+}
+
+.u42 {
+    position:absolute;
+    left:10px;
+    top:12px;
+    width:163px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u43_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u43_container {
+    position:absolute;
+    left:0px;
+    top:40px;
+    width:174px;
+    height:40px;
+}
+
+#u43_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:180px;
+    height:46px;
+}
+
+.u44 {
+    position:absolute;
+    left:10px;
+    top:12px;
+    width:163px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u45_line {
+    background-image: url('../新母版_2_files/u45_line.png');
+}
+
+.u45_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:960px;
+    height:3px;
+}
+
+.u45 {
+    position:absolute;
+    left:25px;
+    top:962px;
+    width:960px;
+    height:10px;
+    
+}
+
+.u46 {
+    position:absolute;
+    left:42px;
+    top:982px;
+    width:225px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u48_normal {
+    background-image: url('../告警记录_1_files/u48_normal.png');
+}
+
+.u48_container {
+    position:absolute;
+    left:221px;
+    top:96px;
+    width:764px;
+    height:39px;
+}
+
+#u48_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:770px;
+    height:45px;
+}
+
+.u49 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:760px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u50_normal {
+    background-image: url('../告警记录_1_files/u50_normal.png');
+}
+
+.u50_container {
+    position:absolute;
+    left:221px;
+    top:135px;
+    width:764px;
+    height:751px;
+}
+
+#u50_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:770px;
+    height:757px;
+}
+
+.u51 {
+    position:absolute;
+    left:2px;
+    top:368px;
+    width:760px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u52_normal {
+    background-image: url('../告警记录_1_files/u52_normal.png');
+}
+
+.u52_container {
+    position:absolute;
+    left:237px;
+    top:151px;
+    width:729px;
+    height:140px;
+}
+
+#u52_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:735px;
+    height:146px;
+}
+
+.u53 {
+    position:absolute;
+    left:2px;
+    top:62px;
+    width:725px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u54 {
+    position:absolute;
+    left:244px;
+    top:159px;
+    width:720px;
+    height:125px
+}
+
+.u55_normal {
+    background-image: url('../告警记录_1_files/u55_normal.png');
+}
+
+.u55_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:715px;
+    height:40px;
+}
+
+#u55_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:721px;
+    height:46px;
+}
+
+.u56 {
+    position:absolute;
+    left:2px;
+    top:22px;
+    width:711px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u57_normal {
+    background-image: url('../告警记录_1_files/u55_normal.png');
+}
+
+.u57_container {
+    position:absolute;
+    left:0px;
+    top:40px;
+    width:715px;
+    height:40px;
+}
+
+#u57_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:721px;
+    height:46px;
+}
+
+.u58 {
+    position:absolute;
+    left:2px;
+    top:22px;
+    width:711px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u59_normal {
+    background-image: url('../告警记录_1_files/u55_normal.png');
+}
+
+.u59_container {
+    position:absolute;
+    left:0px;
+    top:80px;
+    width:715px;
+    height:40px;
+}
+
+#u59_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:721px;
+    height:46px;
+}
+
+.u60 {
+    position:absolute;
+    left:2px;
+    top:22px;
+    width:711px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u61 {
+    position:absolute;
+    left:272px;
+    top:173px;
+    width:91px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u62 {
+    position:absolute;
+    left:470px;
+    top:173px;
+    width:91px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u63 {
+    position:absolute;
+    left:361px;
+    top:211px;
+    width:91px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u64 {
+    position:absolute;
+    left:488px;
+    top:211px;
+    width:91px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u65 {
+    position:absolute;
+    left:352px;
+    top:251px;
+    width:377px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u66 {
+    position:absolute;
+    left:752px;
+    top:251px;
+    width:100px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+#u67 {
+    position:absolute;
+    left:237px;
+    top:311px;
+    width:734px;
+    height:523px
+}
+
+.u68_normal {
+    background-image: url('../告警记录_1_files/u68_normal.png');
+}
+
+.u68_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:40px;
+    height:36px;
+}
+
+#u68_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:46px;
+    height:42px;
+}
+
+.u69 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:36px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u70_normal {
+    background-image: url('../告警记录_1_files/u70_normal.png');
+}
+
+.u70_container {
+    position:absolute;
+    left:40px;
+    top:0px;
+    width:436px;
+    height:36px;
+}
+
+#u70_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:442px;
+    height:42px;
+}
+
+.u71 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:432px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u72_normal {
+    background-image: url('../告警记录_1_files/u72_normal.png');
+}
+
+.u72_container {
+    position:absolute;
+    left:476px;
+    top:0px;
+    width:63px;
+    height:36px;
+}
+
+#u72_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:69px;
+    height:42px;
+}
+
+.u73 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:59px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u74_normal {
+    background-image: url('../告警记录_1_files/u74_normal.png');
+}
+
+.u74_container {
+    position:absolute;
+    left:539px;
+    top:0px;
+    width:107px;
+    height:36px;
+}
+
+#u74_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:113px;
+    height:42px;
+}
+
+.u75 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:103px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u76_normal {
+    background-image: url('../告警记录_1_files/u76_normal.png');
+}
+
+.u76_container {
+    position:absolute;
+    left:646px;
+    top:0px;
+    width:83px;
+    height:36px;
+}
+
+#u76_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:89px;
+    height:42px;
+}
+
+.u77 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:79px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u78_normal {
+    background-image: url('../告警记录_1_files/u78_normal.png');
+}
+
+.u78_container {
+    position:absolute;
+    left:0px;
+    top:36px;
+    width:40px;
+    height:32px;
+}
+
+#u78_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:46px;
+    height:38px;
+}
+
+.u79 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:36px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u80_normal {
+    background-image: url('../告警记录_1_files/u80_normal.png');
+}
+
+.u80_container {
+    position:absolute;
+    left:40px;
+    top:36px;
+    width:436px;
+    height:32px;
+}
+
+#u80_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:442px;
+    height:38px;
+}
+
+.u81 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:432px;
+    height:28px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u82_normal {
+    background-image: url('../告警记录_1_files/u82_normal.png');
+}
+
+.u82_container {
+    position:absolute;
+    left:476px;
+    top:36px;
+    width:63px;
+    height:32px;
+}
+
+#u82_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:69px;
+    height:38px;
+}
+
+.u83 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:59px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u84_normal {
+    background-image: url('../告警记录_1_files/u84_normal.png');
+}
+
+.u84_container {
+    position:absolute;
+    left:539px;
+    top:36px;
+    width:107px;
+    height:32px;
+}
+
+#u84_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:113px;
+    height:38px;
+}
+
+.u85 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:103px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u86_normal {
+    background-image: url('../告警记录_1_files/u86_normal.png');
+}
+
+.u86_container {
+    position:absolute;
+    left:646px;
+    top:36px;
+    width:83px;
+    height:32px;
+}
+
+#u86_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:89px;
+    height:38px;
+}
+
+.u87 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:79px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u88_normal {
+    background-image: url('../告警记录_1_files/u88_normal.png');
+}
+
+.u88_container {
+    position:absolute;
+    left:0px;
+    top:68px;
+    width:40px;
+    height:34px;
+}
+
+#u88_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:46px;
+    height:40px;
+}
+
+.u89 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:36px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u90_normal {
+    background-image: url('../告警记录_1_files/u90_normal.png');
+}
+
+.u90_container {
+    position:absolute;
+    left:40px;
+    top:68px;
+    width:436px;
+    height:34px;
+}
+
+#u90_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:442px;
+    height:40px;
+}
+
+.u91 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:432px;
+    height:28px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u92_normal {
+    background-image: url('../告警记录_1_files/u92_normal.png');
+}
+
+.u92_container {
+    position:absolute;
+    left:476px;
+    top:68px;
+    width:63px;
+    height:34px;
+}
+
+#u92_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:69px;
+    height:40px;
+}
+
+.u93 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:59px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u94_normal {
+    background-image: url('../告警记录_1_files/u94_normal.png');
+}
+
+.u94_container {
+    position:absolute;
+    left:539px;
+    top:68px;
+    width:107px;
+    height:34px;
+}
+
+#u94_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:113px;
+    height:40px;
+}
+
+.u95 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:103px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u96_normal {
+    background-image: url('../告警记录_1_files/u96_normal.png');
+}
+
+.u96_container {
+    position:absolute;
+    left:646px;
+    top:68px;
+    width:83px;
+    height:34px;
+}
+
+#u96_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:89px;
+    height:40px;
+}
+
+.u97 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:79px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u98_normal {
+    background-image: url('../告警记录_1_files/u78_normal.png');
+}
+
+.u98_container {
+    position:absolute;
+    left:0px;
+    top:102px;
+    width:40px;
+    height:32px;
+}
+
+#u98_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:46px;
+    height:38px;
+}
+
+.u99 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:36px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u100_normal {
+    background-image: url('../告警记录_1_files/u80_normal.png');
+}
+
+.u100_container {
+    position:absolute;
+    left:40px;
+    top:102px;
+    width:436px;
+    height:32px;
+}
+
+#u100_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:442px;
+    height:38px;
+}
+
+.u101 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:432px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u102_normal {
+    background-image: url('../告警记录_1_files/u82_normal.png');
+}
+
+.u102_container {
+    position:absolute;
+    left:476px;
+    top:102px;
+    width:63px;
+    height:32px;
+}
+
+#u102_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:69px;
+    height:38px;
+}
+
+.u103 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:59px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u104_normal {
+    background-image: url('../告警记录_1_files/u84_normal.png');
+}
+
+.u104_container {
+    position:absolute;
+    left:539px;
+    top:102px;
+    width:107px;
+    height:32px;
+}
+
+#u104_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:113px;
+    height:38px;
+}
+
+.u105 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:103px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u106_normal {
+    background-image: url('../告警记录_1_files/u86_normal.png');
+}
+
+.u106_container {
+    position:absolute;
+    left:646px;
+    top:102px;
+    width:83px;
+    height:32px;
+}
+
+#u106_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:89px;
+    height:38px;
+}
+
+.u107 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:79px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u108_normal {
+    background-image: url('../告警记录_1_files/u78_normal.png');
+}
+
+.u108_container {
+    position:absolute;
+    left:0px;
+    top:134px;
+    width:40px;
+    height:32px;
+}
+
+#u108_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:46px;
+    height:38px;
+}
+
+.u109 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:36px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u110_normal {
+    background-image: url('../告警记录_1_files/u80_normal.png');
+}
+
+.u110_container {
+    position:absolute;
+    left:40px;
+    top:134px;
+    width:436px;
+    height:32px;
+}
+
+#u110_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:442px;
+    height:38px;
+}
+
+.u111 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:432px;
+    height:28px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u112_normal {
+    background-image: url('../告警记录_1_files/u82_normal.png');
+}
+
+.u112_container {
+    position:absolute;
+    left:476px;
+    top:134px;
+    width:63px;
+    height:32px;
+}
+
+#u112_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:69px;
+    height:38px;
+}
+
+.u113 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:59px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u114_normal {
+    background-image: url('../告警记录_1_files/u84_normal.png');
+}
+
+.u114_container {
+    position:absolute;
+    left:539px;
+    top:134px;
+    width:107px;
+    height:32px;
+}
+
+#u114_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:113px;
+    height:38px;
+}
+
+.u115 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:103px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u116_normal {
+    background-image: url('../告警记录_1_files/u86_normal.png');
+}
+
+.u116_container {
+    position:absolute;
+    left:646px;
+    top:134px;
+    width:83px;
+    height:32px;
+}
+
+#u116_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:89px;
+    height:38px;
+}
+
+.u117 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:79px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u118_normal {
+    background-image: url('../告警记录_1_files/u78_normal.png');
+}
+
+.u118_container {
+    position:absolute;
+    left:0px;
+    top:166px;
+    width:40px;
+    height:32px;
+}
+
+#u118_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:46px;
+    height:38px;
+}
+
+.u119 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:36px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u120_normal {
+    background-image: url('../告警记录_1_files/u80_normal.png');
+}
+
+.u120_container {
+    position:absolute;
+    left:40px;
+    top:166px;
+    width:436px;
+    height:32px;
+}
+
+#u120_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:442px;
+    height:38px;
+}
+
+.u121 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:432px;
+    height:28px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u122_normal {
+    background-image: url('../告警记录_1_files/u82_normal.png');
+}
+
+.u122_container {
+    position:absolute;
+    left:476px;
+    top:166px;
+    width:63px;
+    height:32px;
+}
+
+#u122_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:69px;
+    height:38px;
+}
+
+.u123 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:59px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u124_normal {
+    background-image: url('../告警记录_1_files/u84_normal.png');
+}
+
+.u124_container {
+    position:absolute;
+    left:539px;
+    top:166px;
+    width:107px;
+    height:32px;
+}
+
+#u124_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:113px;
+    height:38px;
+}
+
+.u125 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:103px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u126_normal {
+    background-image: url('../告警记录_1_files/u86_normal.png');
+}
+
+.u126_container {
+    position:absolute;
+    left:646px;
+    top:166px;
+    width:83px;
+    height:32px;
+}
+
+#u126_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:89px;
+    height:38px;
+}
+
+.u127 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:79px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u128_normal {
+    background-image: url('../告警记录_1_files/u78_normal.png');
+}
+
+.u128_container {
+    position:absolute;
+    left:0px;
+    top:198px;
+    width:40px;
+    height:32px;
+}
+
+#u128_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:46px;
+    height:38px;
+}
+
+.u129 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:36px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u130_normal {
+    background-image: url('../告警记录_1_files/u80_normal.png');
+}
+
+.u130_container {
+    position:absolute;
+    left:40px;
+    top:198px;
+    width:436px;
+    height:32px;
+}
+
+#u130_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:442px;
+    height:38px;
+}
+
+.u131 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:432px;
+    height:28px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u132_normal {
+    background-image: url('../告警记录_1_files/u82_normal.png');
+}
+
+.u132_container {
+    position:absolute;
+    left:476px;
+    top:198px;
+    width:63px;
+    height:32px;
+}
+
+#u132_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:69px;
+    height:38px;
+}
+
+.u133 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:59px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u134_normal {
+    background-image: url('../告警记录_1_files/u84_normal.png');
+}
+
+.u134_container {
+    position:absolute;
+    left:539px;
+    top:198px;
+    width:107px;
+    height:32px;
+}
+
+#u134_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:113px;
+    height:38px;
+}
+
+.u135 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:103px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u136_normal {
+    background-image: url('../告警记录_1_files/u86_normal.png');
+}
+
+.u136_container {
+    position:absolute;
+    left:646px;
+    top:198px;
+    width:83px;
+    height:32px;
+}
+
+#u136_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:89px;
+    height:38px;
+}
+
+.u137 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:79px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u138_normal {
+    background-image: url('../告警记录_1_files/u78_normal.png');
+}
+
+.u138_container {
+    position:absolute;
+    left:0px;
+    top:230px;
+    width:40px;
+    height:32px;
+}
+
+#u138_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:46px;
+    height:38px;
+}
+
+.u139 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:36px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u140_normal {
+    background-image: url('../告警记录_1_files/u80_normal.png');
+}
+
+.u140_container {
+    position:absolute;
+    left:40px;
+    top:230px;
+    width:436px;
+    height:32px;
+}
+
+#u140_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:442px;
+    height:38px;
+}
+
+.u141 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:432px;
+    height:28px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u142_normal {
+    background-image: url('../告警记录_1_files/u82_normal.png');
+}
+
+.u142_container {
+    position:absolute;
+    left:476px;
+    top:230px;
+    width:63px;
+    height:32px;
+}
+
+#u142_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:69px;
+    height:38px;
+}
+
+.u143 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:59px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u144_normal {
+    background-image: url('../告警记录_1_files/u84_normal.png');
+}
+
+.u144_container {
+    position:absolute;
+    left:539px;
+    top:230px;
+    width:107px;
+    height:32px;
+}
+
+#u144_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:113px;
+    height:38px;
+}
+
+.u145 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:103px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u146_normal {
+    background-image: url('../告警记录_1_files/u86_normal.png');
+}
+
+.u146_container {
+    position:absolute;
+    left:646px;
+    top:230px;
+    width:83px;
+    height:32px;
+}
+
+#u146_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:89px;
+    height:38px;
+}
+
+.u147 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:79px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u148_normal {
+    background-image: url('../告警记录_1_files/u78_normal.png');
+}
+
+.u148_container {
+    position:absolute;
+    left:0px;
+    top:262px;
+    width:40px;
+    height:32px;
+}
+
+#u148_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:46px;
+    height:38px;
+}
+
+.u149 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:36px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u150_normal {
+    background-image: url('../告警记录_1_files/u80_normal.png');
+}
+
+.u150_container {
+    position:absolute;
+    left:40px;
+    top:262px;
+    width:436px;
+    height:32px;
+}
+
+#u150_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:442px;
+    height:38px;
+}
+
+.u151 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:432px;
+    height:28px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u152_normal {
+    background-image: url('../告警记录_1_files/u82_normal.png');
+}
+
+.u152_container {
+    position:absolute;
+    left:476px;
+    top:262px;
+    width:63px;
+    height:32px;
+}
+
+#u152_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:69px;
+    height:38px;
+}
+
+.u153 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:59px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u154_normal {
+    background-image: url('../告警记录_1_files/u84_normal.png');
+}
+
+.u154_container {
+    position:absolute;
+    left:539px;
+    top:262px;
+    width:107px;
+    height:32px;
+}
+
+#u154_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:113px;
+    height:38px;
+}
+
+.u155 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:103px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u156_normal {
+    background-image: url('../告警记录_1_files/u86_normal.png');
+}
+
+.u156_container {
+    position:absolute;
+    left:646px;
+    top:262px;
+    width:83px;
+    height:32px;
+}
+
+#u156_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:89px;
+    height:38px;
+}
+
+.u157 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:79px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u158_normal {
+    background-image: url('../告警记录_1_files/u78_normal.png');
+}
+
+.u158_container {
+    position:absolute;
+    left:0px;
+    top:294px;
+    width:40px;
+    height:32px;
+}
+
+#u158_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:46px;
+    height:38px;
+}
+
+.u159 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:36px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u160_normal {
+    background-image: url('../告警记录_1_files/u80_normal.png');
+}
+
+.u160_container {
+    position:absolute;
+    left:40px;
+    top:294px;
+    width:436px;
+    height:32px;
+}
+
+#u160_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:442px;
+    height:38px;
+}
+
+.u161 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:432px;
+    height:28px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u162_normal {
+    background-image: url('../告警记录_1_files/u82_normal.png');
+}
+
+.u162_container {
+    position:absolute;
+    left:476px;
+    top:294px;
+    width:63px;
+    height:32px;
+}
+
+#u162_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:69px;
+    height:38px;
+}
+
+.u163 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:59px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u164_normal {
+    background-image: url('../告警记录_1_files/u84_normal.png');
+}
+
+.u164_container {
+    position:absolute;
+    left:539px;
+    top:294px;
+    width:107px;
+    height:32px;
+}
+
+#u164_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:113px;
+    height:38px;
+}
+
+.u165 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:103px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u166_normal {
+    background-image: url('../告警记录_1_files/u86_normal.png');
+}
+
+.u166_container {
+    position:absolute;
+    left:646px;
+    top:294px;
+    width:83px;
+    height:32px;
+}
+
+#u166_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:89px;
+    height:38px;
+}
+
+.u167 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:79px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u168_normal {
+    background-image: url('../告警记录_1_files/u78_normal.png');
+}
+
+.u168_container {
+    position:absolute;
+    left:0px;
+    top:326px;
+    width:40px;
+    height:32px;
+}
+
+#u168_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:46px;
+    height:38px;
+}
+
+.u169 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:36px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u170_normal {
+    background-image: url('../告警记录_1_files/u80_normal.png');
+}
+
+.u170_container {
+    position:absolute;
+    left:40px;
+    top:326px;
+    width:436px;
+    height:32px;
+}
+
+#u170_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:442px;
+    height:38px;
+}
+
+.u171 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:432px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u172_normal {
+    background-image: url('../告警记录_1_files/u82_normal.png');
+}
+
+.u172_container {
+    position:absolute;
+    left:476px;
+    top:326px;
+    width:63px;
+    height:32px;
+}
+
+#u172_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:69px;
+    height:38px;
+}
+
+.u173 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:59px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u174_normal {
+    background-image: url('../告警记录_1_files/u84_normal.png');
+}
+
+.u174_container {
+    position:absolute;
+    left:539px;
+    top:326px;
+    width:107px;
+    height:32px;
+}
+
+#u174_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:113px;
+    height:38px;
+}
+
+.u175 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:103px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u176_normal {
+    background-image: url('../告警记录_1_files/u86_normal.png');
+}
+
+.u176_container {
+    position:absolute;
+    left:646px;
+    top:326px;
+    width:83px;
+    height:32px;
+}
+
+#u176_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:89px;
+    height:38px;
+}
+
+.u177 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:79px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u178_normal {
+    background-image: url('../告警记录_1_files/u78_normal.png');
+}
+
+.u178_container {
+    position:absolute;
+    left:0px;
+    top:358px;
+    width:40px;
+    height:32px;
+}
+
+#u178_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:46px;
+    height:38px;
+}
+
+.u179 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:36px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u180_normal {
+    background-image: url('../告警记录_1_files/u80_normal.png');
+}
+
+.u180_container {
+    position:absolute;
+    left:40px;
+    top:358px;
+    width:436px;
+    height:32px;
+}
+
+#u180_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:442px;
+    height:38px;
+}
+
+.u181 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:432px;
+    height:28px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u182_normal {
+    background-image: url('../告警记录_1_files/u82_normal.png');
+}
+
+.u182_container {
+    position:absolute;
+    left:476px;
+    top:358px;
+    width:63px;
+    height:32px;
+}
+
+#u182_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:69px;
+    height:38px;
+}
+
+.u183 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:59px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u184_normal {
+    background-image: url('../告警记录_1_files/u84_normal.png');
+}
+
+.u184_container {
+    position:absolute;
+    left:539px;
+    top:358px;
+    width:107px;
+    height:32px;
+}
+
+#u184_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:113px;
+    height:38px;
+}
+
+.u185 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:103px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u186_normal {
+    background-image: url('../告警记录_1_files/u86_normal.png');
+}
+
+.u186_container {
+    position:absolute;
+    left:646px;
+    top:358px;
+    width:83px;
+    height:32px;
+}
+
+#u186_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:89px;
+    height:38px;
+}
+
+.u187 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:79px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u188_normal {
+    background-image: url('../告警记录_1_files/u78_normal.png');
+}
+
+.u188_container {
+    position:absolute;
+    left:0px;
+    top:390px;
+    width:40px;
+    height:32px;
+}
+
+#u188_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:46px;
+    height:38px;
+}
+
+.u189 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:36px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u190_normal {
+    background-image: url('../告警记录_1_files/u80_normal.png');
+}
+
+.u190_container {
+    position:absolute;
+    left:40px;
+    top:390px;
+    width:436px;
+    height:32px;
+}
+
+#u190_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:442px;
+    height:38px;
+}
+
+.u191 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:432px;
+    height:28px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u192_normal {
+    background-image: url('../告警记录_1_files/u82_normal.png');
+}
+
+.u192_container {
+    position:absolute;
+    left:476px;
+    top:390px;
+    width:63px;
+    height:32px;
+}
+
+#u192_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:69px;
+    height:38px;
+}
+
+.u193 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:59px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u194_normal {
+    background-image: url('../告警记录_1_files/u84_normal.png');
+}
+
+.u194_container {
+    position:absolute;
+    left:539px;
+    top:390px;
+    width:107px;
+    height:32px;
+}
+
+#u194_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:113px;
+    height:38px;
+}
+
+.u195 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:103px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u196_normal {
+    background-image: url('../告警记录_1_files/u86_normal.png');
+}
+
+.u196_container {
+    position:absolute;
+    left:646px;
+    top:390px;
+    width:83px;
+    height:32px;
+}
+
+#u196_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:89px;
+    height:38px;
+}
+
+.u197 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:79px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u198_normal {
+    background-image: url('../告警记录_1_files/u78_normal.png');
+}
+
+.u198_container {
+    position:absolute;
+    left:0px;
+    top:422px;
+    width:40px;
+    height:32px;
+}
+
+#u198_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:46px;
+    height:38px;
+}
+
+.u199 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:36px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u200_normal {
+    background-image: url('../告警记录_1_files/u80_normal.png');
+}
+
+.u200_container {
+    position:absolute;
+    left:40px;
+    top:422px;
+    width:436px;
+    height:32px;
+}
+
+#u200_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:442px;
+    height:38px;
+}
+
+.u201 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:432px;
+    height:28px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u202_normal {
+    background-image: url('../告警记录_1_files/u82_normal.png');
+}
+
+.u202_container {
+    position:absolute;
+    left:476px;
+    top:422px;
+    width:63px;
+    height:32px;
+}
+
+#u202_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:69px;
+    height:38px;
+}
+
+.u203 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:59px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u204_normal {
+    background-image: url('../告警记录_1_files/u84_normal.png');
+}
+
+.u204_container {
+    position:absolute;
+    left:539px;
+    top:422px;
+    width:107px;
+    height:32px;
+}
+
+#u204_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:113px;
+    height:38px;
+}
+
+.u205 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:103px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u206_normal {
+    background-image: url('../告警记录_1_files/u86_normal.png');
+}
+
+.u206_container {
+    position:absolute;
+    left:646px;
+    top:422px;
+    width:83px;
+    height:32px;
+}
+
+#u206_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:89px;
+    height:38px;
+}
+
+.u207 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:79px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u208_normal {
+    background-image: url('../告警记录_1_files/u78_normal.png');
+}
+
+.u208_container {
+    position:absolute;
+    left:0px;
+    top:454px;
+    width:40px;
+    height:32px;
+}
+
+#u208_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:46px;
+    height:38px;
+}
+
+.u209 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:36px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u210_normal {
+    background-image: url('../告警记录_1_files/u80_normal.png');
+}
+
+.u210_container {
+    position:absolute;
+    left:40px;
+    top:454px;
+    width:436px;
+    height:32px;
+}
+
+#u210_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:442px;
+    height:38px;
+}
+
+.u211 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:432px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u212_normal {
+    background-image: url('../告警记录_1_files/u82_normal.png');
+}
+
+.u212_container {
+    position:absolute;
+    left:476px;
+    top:454px;
+    width:63px;
+    height:32px;
+}
+
+#u212_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:69px;
+    height:38px;
+}
+
+.u213 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:59px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u214_normal {
+    background-image: url('../告警记录_1_files/u84_normal.png');
+}
+
+.u214_container {
+    position:absolute;
+    left:539px;
+    top:454px;
+    width:107px;
+    height:32px;
+}
+
+#u214_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:113px;
+    height:38px;
+}
+
+.u215 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:103px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u216_normal {
+    background-image: url('../告警记录_1_files/u86_normal.png');
+}
+
+.u216_container {
+    position:absolute;
+    left:646px;
+    top:454px;
+    width:83px;
+    height:32px;
+}
+
+#u216_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:89px;
+    height:38px;
+}
+
+.u217 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:79px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u218_normal {
+    background-image: url('../告警记录_1_files/u78_normal.png');
+}
+
+.u218_container {
+    position:absolute;
+    left:0px;
+    top:486px;
+    width:40px;
+    height:32px;
+}
+
+#u218_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:46px;
+    height:38px;
+}
+
+.u219 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:36px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u220_normal {
+    background-image: url('../告警记录_1_files/u80_normal.png');
+}
+
+.u220_container {
+    position:absolute;
+    left:40px;
+    top:486px;
+    width:436px;
+    height:32px;
+}
+
+#u220_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:442px;
+    height:38px;
+}
+
+.u221 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:432px;
+    height:28px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u222_normal {
+    background-image: url('../告警记录_1_files/u82_normal.png');
+}
+
+.u222_container {
+    position:absolute;
+    left:476px;
+    top:486px;
+    width:63px;
+    height:32px;
+}
+
+#u222_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:69px;
+    height:38px;
+}
+
+.u223 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:59px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u224_normal {
+    background-image: url('../告警记录_1_files/u84_normal.png');
+}
+
+.u224_container {
+    position:absolute;
+    left:539px;
+    top:486px;
+    width:107px;
+    height:32px;
+}
+
+#u224_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:113px;
+    height:38px;
+}
+
+.u225 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:103px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u226_normal {
+    background-image: url('../告警记录_1_files/u86_normal.png');
+}
+
+.u226_container {
+    position:absolute;
+    left:646px;
+    top:486px;
+    width:83px;
+    height:32px;
+}
+
+#u226_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:89px;
+    height:38px;
+}
+
+.u227 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:79px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u228_normal {
+    background-image: url('../告警记录_1_files/u228_normal.png');
+}
+
+.u228_container {
+    position:absolute;
+    left:715px;
+    top:856px;
+    width:19px;
+    height:17px;
+}
+
+#u228_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:25px;
+    height:23px;
+}
+
+.u229 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:15px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u230_normal {
+    background-image: url('../告警记录_1_files/u230_normal.png');
+}
+
+.u230_container {
+    position:absolute;
+    left:744px;
+    top:856px;
+    width:19px;
+    height:17px;
+}
+
+#u230_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:25px;
+    height:23px;
+}
+
+.u231 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:15px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u232_normal {
+    background-image: url('../告警记录_1_files/u228_normal.png');
+}
+
+.u232_container {
+    position:absolute;
+    left:773px;
+    top:856px;
+    width:19px;
+    height:17px;
+}
+
+#u232_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:25px;
+    height:23px;
+}
+
+.u233 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:15px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u234_normal {
+    background-image: url('../告警记录_1_files/u228_normal.png');
+}
+
+.u234_container {
+    position:absolute;
+    left:802px;
+    top:856px;
+    width:19px;
+    height:17px;
+}
+
+#u234_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:25px;
+    height:23px;
+}
+
+.u235 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:15px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u236_normal {
+    background-image: url('../告警记录_1_files/u228_normal.png');
+}
+
+.u236_container {
+    position:absolute;
+    left:831px;
+    top:856px;
+    width:19px;
+    height:17px;
+}
+
+#u236_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:25px;
+    height:23px;
+}
+
+.u237 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:15px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u238_normal {
+    background-image: url('../告警记录_1_files/u228_normal.png');
+}
+
+.u238_container {
+    position:absolute;
+    left:860px;
+    top:856px;
+    width:19px;
+    height:17px;
+}
+
+#u238_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:25px;
+    height:23px;
+}
+
+.u239 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:15px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u240_normal {
+    background-image: url('../告警记录_1_files/u228_normal.png');
+}
+
+.u240_container {
+    position:absolute;
+    left:889px;
+    top:856px;
+    width:19px;
+    height:17px;
+}
+
+#u240_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:25px;
+    height:23px;
+}
+
+.u241 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:15px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u242_normal {
+    background-image: url('../告警记录_1_files/u228_normal.png');
+}
+
+.u242_container {
+    position:absolute;
+    left:918px;
+    top:856px;
+    width:19px;
+    height:17px;
+}
+
+#u242_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:25px;
+    height:23px;
+}
+
+.u243 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:15px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u244_normal {
+    background-image: url('../告警记录_1_files/u228_normal.png');
+}
+
+.u244_container {
+    position:absolute;
+    left:947px;
+    top:856px;
+    width:19px;
+    height:17px;
+}
+
+#u244_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:25px;
+    height:23px;
+}
+
+.u245 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:15px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
